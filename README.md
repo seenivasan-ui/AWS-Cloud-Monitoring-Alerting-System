@@ -24,7 +24,7 @@ Deployed a cloud monitoring stack on AWS EC2 using Prometheus, Node Exporter, an
 ![EC2 Running](4-instance-running.png)
 
 ### Prometheus Targets Up
-![Prometheus](prometheus-targets-up.png)
+![Prometheus](prometheus-target-up.png)
 
 ### Grafana Dashboard
 ![Grafana](grafana-cpu-graph.png)
